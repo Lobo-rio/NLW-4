@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  Estudo de JavaScript, NodeJS, Expresss, TypeScript e etc..
+  Estudo de NodeJS, TypeScript, Expresss e etc..
 </h3>
 
 <blockquote align="center">“Querer vencer significa já ter percorrido metade do caminho.”</blockquote>
@@ -26,7 +26,6 @@
 
 Desafios para fortalecer alguns conceitos, entre eles:
 
-- **Javascript**;
 - **NodeJS**;
 - **TypeScript**;
 - **Instalação e Configuração do Insomnia**;
