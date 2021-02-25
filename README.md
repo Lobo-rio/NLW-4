@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img alt="NLW-04" src="public/assets/nlw-04.jpg" width="400px" />
+    <img alt="NLW-04" src="public/assets/nlw-04.jpg" width="260px" />
 </h1>
 
 <h3 align="center">
