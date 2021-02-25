@@ -38,8 +38,9 @@ Desafios para fortalecer alguns conceitos, entre eles:
 - **Banco de Dados**;
 - **Instalação e configuração Sqlite**;
 - **TypeOrm**
-- **Criação da Magration**;
+- **Criação da Migration**;
 - **Leitura e Salvar em Banco com TypeOrm**;
+- **Instalação e configuração do Beekeper Studio (Acesso ao Banco de Dados)**
 - **Usando o insomnia para enviar requisição POST (Simulando envio pelo navegador)**
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
