@@ -43,4 +43,19 @@ Desafios para fortalecer alguns conceitos, entre eles:
 - **Instalação e configuração do Beekeper Studio (Acesso ao Banco de Dados)**
 - **Usando o insomnia para enviar requisição POST (Simulando envio pelo navegador)**
 
+<h2>
+  Aula 03
+</h2>
+
+- **Refatoração dos códigos do controllers**;
+- **Criação de repository**;
+- **Orientação a Objeto**
+- **Teste unitários**;
+- **instalação e configuração do jest**;
+- **Instalação e uso do supertest**
+- **Teste de integração com nossa app**
+- **Uso de if ternario, variaveis de ambiente**
+- **Criação de banco de dados de teste**
+
+
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
