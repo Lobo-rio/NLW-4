@@ -6,7 +6,8 @@
 </h1>
 
 <h3 align="center">
-  Estudo de NodeJS, TypeScript, Expresss e etc..
+  Desenvolvimento de uma aplicação que Pesquisa de Satisfação do Cliente, usando as tecnologias:
+  NodeJS, TypeScript, Expresss e etc..
 </h3>
 
 <blockquote align="center">“Querer vencer significa já ter percorrido metade do caminho.”</blockquote>
@@ -66,5 +67,41 @@ Desafios para fortalecer alguns conceitos, entre eles:
 - **Configuração do Serviço de email customizado (ethereal.email)**
 - **Instalação e criação do template de email (Handlebars)**;
 
+<h2>
+  Aula 05
+</h2>
+
+- **Refatoração do SendEmailController**;
+- **Criação do Controller de resposta da pesquisa**;
+- **Validação com Yup Validation**
+- **Criação do controller de NPS**;
+- **Refatoração das mensagens de erros no app!**;
+
+<h2>
+  Instalação e Uso do App!
+</h2>
+
+Aqui estão listado os passos para vc clonar e atualizar o App.
+
+...
+
+//Clonar o repositório
+$ git clone https://github.com/Lobo-rio/NLW-4.git
+
+// Entrar na pasta
+$ cd NLW-4
+
+// Atualizar o App com suas dependências
+$ yarn i
+
+// Teste unitário
+$ yarn test
+
+// Aplicação 
+$ yarn dev
+
+...
+
+Fica aqui meu agradecimento a Rocketseat e a Dani, por mais um evento excepicional! 
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
