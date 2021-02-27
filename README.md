@@ -57,5 +57,14 @@ Desafios para fortalecer alguns conceitos, entre eles:
 - **Uso de if ternario, variaveis de ambiente**
 - **Criação de banco de dados de teste**
 
+<h2>
+  Aula 04
+</h2>
+
+- **Instalação e Enviando email (nodemailer)**;
+- **Tipos de relacionamentos**;
+- **Configuração do Serviço de email customizado (ethereal.email)**
+- **Instalação e criação do template de email (Handlebars)**;
+
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
