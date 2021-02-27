@@ -4,7 +4,7 @@ import { resolve } from 'path'
 
 
 import { SurveysRepository } from "../repositories/SurveysRepository"
-import { SurveyrsUsersRepository } from "../repositories/SurveysUsersRepository"
+import { SurveysUsersRepository } from "../repositories/SurveysUsersRepository"
 import { UsersRepository } from "../repositories/UsersRepository"
 import SendMailService from "../services/SendMailService"
 import { AppError } from "../errors/AppError"
@@ -17,7 +17,7 @@ class SendMailController {
 
         const usersRepository = getCustomRepository(UsersRepository)
         const surveysRepository = getCustomRepository(SurveysRepository)
-        const surveysUsersRepository = getCustomRepository(SurveyrsUsersRepository)
+        const surveysUsersRepository = getCustomRepository(SurveysUsersRepository)
 
         const user = await usersRepository.findOne({email})
 
