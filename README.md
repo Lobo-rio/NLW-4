@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  Desenvolvimento de uma aplicação que Pesquisa de Satisfação do Cliente, usando as tecnologias:
+  Desenvolvimento de uma aplicação, **Pesquisa de Satisfação do Cliente**, usando as tecnologias:
   NodeJS, TypeScript, Expresss e etc..
 </h3>
 
