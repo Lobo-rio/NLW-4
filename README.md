@@ -6,8 +6,8 @@
 </h1>
 
 <h3 align="center">
-  Desenvolvimento de uma aplicação, **Pesquisa de Satisfação do Cliente**, usando as tecnologias:
-  NodeJS, TypeScript, Expresss e etc..
+  Desenvolvimento de uma aplicação, Pesquisa de Satisfação do Cliente, usando as tecnologias:
+  NodeJS, TypeScript, TypeOrm, Expresss, Banco de Dados Sqlite e etc..
 </h3>
 
 <blockquote align="center">“Querer vencer significa já ter percorrido metade do caminho.”</blockquote>
@@ -83,7 +83,7 @@ Desafios para fortalecer alguns conceitos, entre eles:
 
 Aqui estão listado os passos para vc clonar e atualizar o App.
 
-...
+```bash
 
 //Clonar o repositório
 $ git clone https://github.com/Lobo-rio/NLW-4.git
@@ -100,7 +100,7 @@ $ yarn test
 // Aplicação 
 $ yarn dev
 
-...
+```
 
 Fica aqui meu agradecimento a Rocketseat e a Dani, por mais um evento excepicional! 
 
